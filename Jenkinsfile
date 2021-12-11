@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building in progress'
+                echo 'Building in progress 1...2'
             }
         }
         stage('Dockerize') {
