@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 @EnableAutoConfiguration
 public class AssessmentApplication {
-	//TODO application yet to start
+	//TODO application yet to start- once again
 	public static void main(String[] args) {
 		SpringApplication.run(AssessmentApplication.class, args);
 	}
